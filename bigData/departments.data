@@ -1,0 +1,86 @@
+D_DepartmentID,D_DepartmentName,D_Location,D_ChairID
+Integer,String,String,Integer
+-------------------------------------------
+1,Accounting,Building 19,1309
+2,Allied Health Sciences,Building 25,614
+3,Art,Building 10,4374
+4,Art History,Building 15,1166
+5,Arts Management,Building 2,14170
+6,Athletic Training,Building 25,3523
+7,Biochemistry,Building 6,22069
+8,Biology,Building 17,7042
+9,Business,Building 6,17317
+10,Business Economics,Building 21,5890
+11,Business Education,Building 23,12308
+12,Chemistry,Building 11,23346
+13,Chinese (minor),Building 10,23663
+14,Chiropractic Medicine,Building 4,17375
+15,Coaching (minor),Building 17,1689
+16,Communication Studies,Building 24,22505
+17,Communication Studies & Theatre,Building 18,20110
+18,Computer Science,Building 8,5949
+19,Computer Science (Information Technology),Building 16,21230
+20,Computer Science (Mathematics),Building 24,5274
+21,Computer Science (Systems),Building 22,23192
+22,Corporate Communication,Building 10,5451
+23,Corporate Math,Building 17,16029
+24,Criminology and Criminal Justice,Building 20,10276
+25,Dentistry,Building 17,5574
+26,Digital Media,Building 6,7340
+27,Economics,Building 12,8964
+28,Elementary Education,Building 4,24193
+29,English,Building 19,19346
+30,Entrepreneurship,Building 9,23882
+31,Environmental Science,Building 14,11485
+32,Exercise Science,Building 19,15383
+33,Finance and Banking,Building 8,10856
+34,Gender and Women’s Studies,Building 12,22428
+35,Graphic Design and Visual Communication,Building 2,11148
+36,Health,Building 16,8836
+37,Health Education/Exercise Science,Building 11,2850
+38,History,Building 3,20951
+39,Human Performance,Building 3,18129
+40,Human Resource Management,Building 2,18574
+41,Interdisciplinary/Distributive,Building 15,21447
+42,International Business,Building 12,7934
+43,International Studies,Building 3,14301
+44,Japanese,Building 21,20740
+45,Journalism,Building 24,6396
+46,Management,Building 6,4679
+47,Marketing,Building 13,23712
+48,Mathematics,Building 19,15826
+49,Medical Technology,Building 4,24095
+50,Medicine,Building 17,24356
+51,Mortuary Science,Building 18,7307
+52,Music,Building 8,10933
+53,Music Production and Technology,Building 10,5180
+54,Music—Vocal and Instrumental,Building 10,11737
+55,Optometry,Building 10,12164
+56,Osteopathy,Building 12,13361
+57,Pharmacy,Building 21,22574
+58,Philosophy and Religion,Building 24,21724
+59,Physical Education,Building 15,11123
+60,Physical Therapy,Building 20,20519
+61,Physician's Assistant,Building 24,11140
+62,Physics,Building 3,18102
+63,Podiatry,Building 3,2962
+64,Political Science,Building 8,18474
+65,Pre-Engineering,Building 6,13533
+66,Pre-Law,Building 14,3650
+67,Pre-Theology,Building 9,8723
+68,Psychology,Building 4,13698
+69,Public Administration,Building 9,20520
+70,Radio,Building 10,19913
+71,Sales,Building 25,5743
+72,Science,Building 16,23997
+73,Secondary Education,Building 22,12270
+74,Social Science,Building 19,6541
+75,Social Work,Building 11,12238
+76,Sociology,Building 3,23613
+77,Spanish,Building 15,9959
+78,Special Education,Building 22,24580
+79,Sports Management,Building 3,16994
+80,Television and Video,Building 1,22680
+81,Theatre,Building 4,2233
+82,Veterinary,Building 7,17716
+83,Visual Arts,Building 13,23614
